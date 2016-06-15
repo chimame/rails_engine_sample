@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsEngineSample::VERSION
   s.authors     = ["tamata.rito"]
   s.email       = ["tamata.rito@iticket.co.jp"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsEngineSample."
-  s.description = "TODO: Description of RailsEngineSample."
+  #s.homepage    = "TODO"
+  s.summary     = "Summary of RailsEngineSample."
+  s.description = "Description of RailsEngineSample."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
